@@ -1,0 +1,3 @@
+include ':JGLTF'
+include ':app'
+rootProject.name = "Load3DGLTFModel"
